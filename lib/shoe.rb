@@ -6,7 +6,7 @@ BRANDS = []
 
   def initialize(brand)
     @brand = brand
-    if brand != BRANDS
+    #if brand != BRANDS
       BRANDS << brand
   end
 
