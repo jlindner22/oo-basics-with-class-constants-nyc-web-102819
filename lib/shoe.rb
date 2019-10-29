@@ -6,7 +6,7 @@ BRANDS = []
 
   def initialize(brand)
     @brand = brand
-    brand.take(3)
+    brand.
       BRANDS << brand
   end
 
